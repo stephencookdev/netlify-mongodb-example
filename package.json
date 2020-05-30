@@ -6,5 +6,8 @@
     "build": "mkdir -p build && cp index.html build/index.html"
   },
   "author": "@stephencookdev",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.8"
+  }
 }
